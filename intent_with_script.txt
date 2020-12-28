@@ -1,0 +1,2 @@
+Will come back to this, but would like to have service available where somebody could send a text and the script runs 1 retweet with the keyword the person sends.
+this request could come to me first for approval either through text or email, but ultimately the sender would get a reply email with what was tweeted, may aslo include link to tweet.
